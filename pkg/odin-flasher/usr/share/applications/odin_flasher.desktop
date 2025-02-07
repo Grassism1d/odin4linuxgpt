@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Samsung Odin Flasher
+Exec=python3 /home/mid/a/odin_flasher.py
+Icon= /home/mid/odin_flasher.png
+Type=Application
+Categories=Utility;Development;
+Terminal=false
